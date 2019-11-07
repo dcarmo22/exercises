@@ -1,3 +1,27 @@
 body {
-    background: red;
+    background: #f5f5f5;
+}
+nav, nav * {
+    border: none;
+    color: none;
+    margin-left: 1px;
+    padding: 
+    list-style: none;   
+}
+
+nav ul li a {
+    padding: 10px 20px;
+    margin: 5px;
+    background-color: blue;
+    color: #fff;
+    text-decoration: none;
+    text-align: center;
+}
+
+nav.horizontal ul li {
+    display: inline-block;
+}
+
+.container {
+    margin:
 }
